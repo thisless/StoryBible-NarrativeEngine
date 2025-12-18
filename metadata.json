@@ -1,0 +1,5 @@
+{
+  "name": "Story Bible AI",
+  "description": "An AI-powered tool to help writers create and manage the core elements of their story, from braindump to final prose, using Gemini.",
+  "requestFramePermissions": []
+}
